@@ -8,6 +8,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 短信工具类
+ */
 public class SmsUtil {
     private static final String TAG = "Rom";
 
